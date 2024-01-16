@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Monkey\Telephone\obj\Debug\net7.0\Telephone.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Monkey\Telephone\obj\Debug\net7.0\Telephone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Monkey\Telephone\obj\Debug\net7.0\Telephone.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Monkey\Telephone\obj\Debug\net7.0\Telephone.AssemblyInfo.cs
+C:\Users\User\Desktop\Monkey\Telephone\obj\Debug\net7.0\Telephone.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Monkey\Telephone\bin\Debug\net7.0\Telephone.exe
+C:\Users\User\Desktop\Monkey\Telephone\bin\Debug\net7.0\Telephone.deps.json
+C:\Users\User\Desktop\Monkey\Telephone\bin\Debug\net7.0\Telephone.runtimeconfig.json
+C:\Users\User\Desktop\Monkey\Telephone\bin\Debug\net7.0\Telephone.dll
+C:\Users\User\Desktop\Monkey\Telephone\bin\Debug\net7.0\Telephone.pdb
+C:\Users\User\Desktop\Monkey\Telephone\obj\Debug\net7.0\Telephone.dll
+C:\Users\User\Desktop\Monkey\Telephone\obj\Debug\net7.0\refint\Telephone.dll
+C:\Users\User\Desktop\Monkey\Telephone\obj\Debug\net7.0\Telephone.pdb
+C:\Users\User\Desktop\Monkey\Telephone\obj\Debug\net7.0\Telephone.genruntimeconfig.cache
+C:\Users\User\Desktop\Monkey\Telephone\obj\Debug\net7.0\ref\Telephone.dll
